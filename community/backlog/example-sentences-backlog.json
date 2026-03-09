@@ -915,7 +915,7 @@
     "jlpt": "N4",
     "id": 102,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "雨が降りそうだから、傘を持って行こう。",
@@ -924,7 +924,7 @@
     "jlpt": "N4",
     "id": 103,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この漢字の読み方を教えてください。",
@@ -933,7 +933,7 @@
     "jlpt": "N5",
     "id": 104,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "会議は予定より早く終わりました。",
@@ -942,7 +942,7 @@
     "jlpt": "N4",
     "id": 105,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "もし時間があれば、一緒に復習しませんか。",
@@ -951,7 +951,7 @@
     "jlpt": "N3",
     "id": 106,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "提出期限までにレポートを仕上げなければならない。",
@@ -959,7 +959,7 @@
     "english": "I must finish the report by the deadline.",
     "jlpt": "N3",
     "id": 107,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
