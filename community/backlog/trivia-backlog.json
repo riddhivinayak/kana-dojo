@@ -1131,7 +1131,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 82,
@@ -1144,7 +1144,7 @@
       "Kairo"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
